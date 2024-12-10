@@ -1,5 +1,7 @@
 1)push all the projects into your git hub
+
 2)How does var, let, and const differ in terms of scope and hoisting? Provide an example.
+
 3)Explain the difference between == and === with an example.
 4)How does the this keyword behave in different contexts? Give examples for global, function, and object contexts.
 5)What is the difference between a function declaration and a function expression? Provide an example.
